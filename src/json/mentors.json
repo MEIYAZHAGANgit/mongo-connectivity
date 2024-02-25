@@ -1,0 +1,7 @@
+{
+    "_id": {
+      "$oid": "6374e4c0662889b0f5166a07"
+    },
+    "name": "John Doe",
+    "expertise": ["Software Engineer", "Web Developer"]
+  }
